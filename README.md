@@ -1,1 +1,1 @@
-# programni-sistemi-uslovia
+# programni-sredi-uslovia
