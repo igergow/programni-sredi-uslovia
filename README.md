@@ -1,1 +1,2 @@
 # programni-sredi-uslovia
+The project serves as a platform for the University discipline "Software Environment," where all relevant information such as tasks, lectures, and other resources will be uploaded.
